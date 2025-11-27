@@ -1,0 +1,1 @@
+export PYSIDE_DESIGNER_PLUGINS=.

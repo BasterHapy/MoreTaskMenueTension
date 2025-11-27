@@ -1,0 +1,1 @@
+$env:PYSIDE_DESIGNER_PLUGINS='.'
