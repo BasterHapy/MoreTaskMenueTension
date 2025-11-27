@@ -28,3 +28,4 @@ scritps\pyside_designer_plugins.bat
 #powershell
  .\scritps\pyside_designer_plugins.ps1
 ```
+[python依赖缺失](https://blog.csdn.net/weixin_72637522/article/details/155285808?sharetype=blogdetail&sharerId=155285808&sharerefer=PC&sharesource=weixin_72637522&spm=1011.2480.3001.8118)
